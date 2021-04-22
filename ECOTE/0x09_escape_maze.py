@@ -17,6 +17,7 @@ def dfs(x, y):
         return True
     return False
 
+
 graph = []
 
 # NxM 배열 입력
